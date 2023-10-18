@@ -1,0 +1,33 @@
+{
+  "name": "mynpnumberguessinggame",
+  "version": "1.0.1",
+  "description": "A CLI based Project for Number Guessing Game",
+  "main": "index.js",
+  "type": "module",
+  "bin": "./public/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SMHussain014/myNPNoGuessingGame.git"
+  },
+  "keywords": [
+    "Number",
+    "Guessing",
+    "Game"
+  ],
+  "author": "Syed Muhammad Hussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SMHussain014/myNPNoGuessingGame/issues"
+  },
+  "homepage": "https://github.com/SMHussain014/myNPNoGuessingGame#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.7",
+    "@types/prompt-sync": "^4.2.2"
+  }
+}
