@@ -4,7 +4,7 @@
   "description": "A CLI based Project for Number Guessing Game",
   "main": "index.js",
   "type": "module",
-  "bin": "./public/index.js",
+  "bin": "public/index.js./",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
